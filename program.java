@@ -1,5 +1,5 @@
 /**
- A class to measure time elapsed.
+ A class to measure time elapsed and this is for testing.
 */
 
 public class Stopwatch
